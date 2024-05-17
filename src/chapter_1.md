@@ -52,7 +52,7 @@
     - [Outras Operações em Arquivos]()
         - [Executando Comandos de Sistemas ]()
 
-8. Preenchendo algumas lacunas
+8. [Preenchendo algumas lacunas]()
     - [Variáveis Locais e Blocos]()
     - [Estruturas de Controle]()
         - [*if then else*]()
